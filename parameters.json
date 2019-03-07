@@ -1,0 +1,369 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_AS_s03_KLAIM_DOC_01_name": {
+            "value": null
+        },
+        "sites_AS_s03_KLAIM_WEB_01_name": {
+            "value": null
+        },
+        "sites_AS_s03_KLAIM_TEAM_01_name": {
+            "value": null
+        },
+        "sites_AS_s03_KLAIM_FLEX_01_name": {
+            "value": null
+        },
+        "sites_AS_s03_KCA_DIANA_API_name": {
+            "value": null
+        },
+        "sites_AS_s03_KCA_DOLLY_API_name": {
+            "value": null
+        },
+        "sites_AS_s03_KLAIM_DADMIN_01_name": {
+            "value": null
+        },
+        "sites_AS_s03_KCA_DARSENA_API_name": {
+            "value": null
+        },
+        "sites_AS_s03_KLAIM_DIABLO_01_name": {
+            "value": null
+        },
+        "sites_AS_s03_KLAIM_WEB_API_01_name": {
+            "value": null
+        },
+        "serverfarms_ASP_s03_ASE_KLAIM4_name": {
+            "value": null
+        },
+        "config_web_name": {
+            "value": null
+        },
+        "config_web_name_1": {
+            "value": null
+        },
+        "config_web_name_2": {
+            "value": null
+        },
+        "config_web_name_3": {
+            "value": null
+        },
+        "config_web_name_4": {
+            "value": null
+        },
+        "config_web_name_5": {
+            "value": null
+        },
+        "config_web_name_6": {
+            "value": null
+        },
+        "config_web_name_7": {
+            "value": null
+        },
+        "slots_test_name": {
+            "value": null
+        },
+        "config_web_name_8": {
+            "value": null
+        },
+        "config_web_name_9": {
+            "value": null
+        },
+        "config_web_name_10": {
+            "value": null
+        },
+        "deployments_9961547466929674_name": {
+            "value": null
+        },
+        "deployments_9861547224426867_name": {
+            "value": null
+        },
+        "deployments_9171545403823373_name": {
+            "value": null
+        },
+        "deployments_8801545223965626_name": {
+            "value": null
+        },
+        "deployments_8321544785277445_name": {
+            "value": null
+        },
+        "deployments_8241544712275965_name": {
+            "value": null
+        },
+        "deployments_7931544635071301_name": {
+            "value": null
+        },
+        "deployments_7891544475540543_name": {
+            "value": null
+        },
+        "deployments_12501550827004999_name": {
+            "value": null
+        },
+        "deployments_12071550567736355_name": {
+            "value": null
+        },
+        "deployments_11961550503823802_name": {
+            "value": null
+        },
+        "deployments_11841550493929091_name": {
+            "value": null
+        },
+        "deployments_11781550493722347_name": {
+            "value": null
+        },
+        "deployments_11261549272921487_name": {
+            "value": null
+        },
+        "deployments_11241549270890468_name": {
+            "value": null
+        },
+        "deployments_10721548689342372_name": {
+            "value": null
+        },
+        "deployments_6231542293217377_name": {
+            "value": null
+        },
+        "deployments_6241542293576928_name": {
+            "value": null
+        },
+        "deployments_13071551782023703_name": {
+            "value": null
+        },
+        "deployments_13041551663489770_name": {
+            "value": null
+        },
+        "deployments_12951551575982458_name": {
+            "value": null
+        },
+        "deployments_12881551530073037_name": {
+            "value": null
+        },
+        "deployments_12691551287256308_name": {
+            "value": null
+        },
+        "deployments_12671551275474893_name": {
+            "value": null
+        },
+        "deployments_12601551253890207_name": {
+            "value": null
+        },
+        "deployments_12171550684195453_name": {
+            "value": null
+        },
+        "deployments_11991550504866224_name": {
+            "value": null
+        },
+        "deployments_11551549897134696_name": {
+            "value": null
+        },
+        "deployments_11911550502395020_name": {
+            "value": null
+        },
+        "deployments_11201549036766102_name": {
+            "value": null
+        },
+        "deployments_10651548682676729_name": {
+            "value": null
+        },
+        "deployments_10621548677185583_name": {
+            "value": null
+        },
+        "deployments_10131547628707942_name": {
+            "value": null
+        },
+        "deployments_10101547627360205_name": {
+            "value": null
+        },
+        "deployments_10061547624765743_name": {
+            "value": null
+        },
+        "deployments_10011547570752750_name": {
+            "value": null
+        },
+        "deployments_13011551662127638_name": {
+            "value": null
+        },
+        "deployments_12971551576054070_name": {
+            "value": null
+        },
+        "deployments_11681550160178366_name": {
+            "value": null
+        },
+        "deployments_11381549469793583_name": {
+            "value": null
+        },
+        "deployments_11011549005534133_name": {
+            "value": null
+        },
+        "deployments_10361548252028265_name": {
+            "value": null
+        },
+        "deployments_11621550134586544_name": {
+            "value": null
+        },
+        "deployments_11461549541432003_name": {
+            "value": null
+        },
+        "deployments_11431549531990590_name": {
+            "value": null
+        },
+        "deployments_11171549027977219_name": {
+            "value": null
+        },
+        "deployments_11141548950249910_name": {
+            "value": null
+        },
+        "deployments_11111548943685426_name": {
+            "value": null
+        },
+        "deployments_11071548941891922_name": {
+            "value": null
+        },
+        "deployments_11091548941957606_name": {
+            "value": null
+        },
+        "deployments_6221542293070903_name": {
+            "value": null
+        },
+        "certificates_kcadev_Cert_RG_s03_UKS_KLAIM4_UKSouthwebspace_name": {
+            "value": null
+        },
+        "deployments_12621551253829489_name": {
+            "value": null
+        },
+        "deployments_12481550826933829_name": {
+            "value": null
+        },
+        "deployments_12361550822842428_name": {
+            "value": null
+        },
+        "deployments_12191550593160172_name": {
+            "value": null
+        },
+        "deployments_12051550572330322_name": {
+            "value": null
+        },
+        "deployments_11821550494024522_name": {
+            "value": null
+        },
+        "deployments_11221549270976641_name": {
+            "value": null
+        },
+        "deployments_10811548768999158_name": {
+            "value": null
+        },
+        "deployments_10701548689268868_name": {
+            "value": null
+        },
+        "deployments_10511548346296231_name": {
+            "value": null
+        },
+        "deployments_11051548941842454_name": {
+            "value": null
+        },
+        "deployments_8451545048349237_name": {
+            "value": null
+        },
+        "deployments_8221544642615776_name": {
+            "value": null
+        },
+        "deployments_8161544635316924_name": {
+            "value": null
+        },
+        "deployments_6551542512009202_name": {
+            "value": null
+        },
+        "deployments_6261542295904684_name": {
+            "value": null
+        },
+        "deployments_12451550826871761_name": {
+            "value": null
+        },
+        "deployments_12421550825290725_name": {
+            "value": null
+        },
+        "deployments_12341550822391007_name": {
+            "value": null
+        },
+        "deployments_12031550577184058_name": {
+            "value": null
+        },
+        "deployments_11801550493431159_name": {
+            "value": null
+        },
+        "deployments_10971548924798801_name": {
+            "value": null
+        },
+        "deployments_10681548689200473_name": {
+            "value": null
+        },
+        "deployments_10581548423932783_name": {
+            "value": null
+        },
+        "deployments_10561548418812288_name": {
+            "value": null
+        },
+        "deployments_10541548412767647_name": {
+            "value": null
+        },
+        "deployments_10831548768622300_name": {
+            "value": null
+        },
+        "deployments_10221547795783559_name": {
+            "value": null
+        },
+        "hostNameBindings_klaim4.kcadev.com_name": {
+            "value": null
+        },
+        "deployments_2d119a720d3b534d47f418c3b1d092fb2d1245ea_name": {
+            "value": null
+        },
+        "deployments_2d119a720d3b534d47f418c3b1d092fb2d1245ea_name_1": {
+            "value": null
+        },
+        "hostNameBindings_as_s03_klaim_doc_01.azurewebsites.net_name": {
+            "value": null
+        },
+        "hostNameBindings_as_s03_klaim_web_01.azurewebsites.net_name": {
+            "value": null
+        },
+        "hostNameBindings_as_s03_klaim_team_01.azurewebsites.net_name": {
+            "value": null
+        },
+        "hostNameBindings_as_s03_klaim_flex_01.azurewebsites.net_name": {
+            "value": null
+        },
+        "deployments_2d119a720d3b534d47f418c3b1d092fb2d1245ea_name_2": {
+            "value": null
+        },
+        "hostNameBindings_as_s03_kca_diana_api.azurewebsites.net_name": {
+            "value": null
+        },
+        "hostNameBindings_as_s03_kca_dolly_api.azurewebsites.net_name": {
+            "value": null
+        },
+        "hostNameBindings_as_s03_klaim_dadmin_01.azurewebsites.net_name": {
+            "value": null
+        },
+        "hostNameBindings_as_s03_kca_darsena_api.azurewebsites.net_name": {
+            "value": null
+        },
+        "hostNameBindings_as_s03_klaim_diablo_01.azurewebsites.net_name": {
+            "value": null
+        },
+        "hostNameBindings_as_s03_klaim_web_api_01.azurewebsites.net_name": {
+            "value": null
+        },
+        "deployments_2d119a720d3b534d47f418c3b1d092fb2d1245ea_name_3": {
+            "value": null
+        },
+        "hostNameBindings_as_s03_kca_darsena_api_test.azurewebsites.net_name": {
+            "value": null
+        },
+        "certificates_kcadev_Cert_RG_s03_UKS_KLAIM4_UKSouthwebspace_keyVaultId": {
+            "value": null
+        },
+        "sites_AS_s03_KLAIM_DADMIN_01_serverFarmId": {
+            "value": null
+        }
+    }
+}
